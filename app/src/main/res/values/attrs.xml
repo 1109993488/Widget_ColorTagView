@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColorTagView">
+        <attr name="tag_clickable" format="boolean" />
+        <attr name="tag_color" format="color" />
+        <attr name="tag_disable_color" format="color" />
+        <attr name="tag_stroke_width" format="dimension" />
+    </declare-styleable>
+</resources>
